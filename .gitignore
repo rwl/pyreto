@@ -1,0 +1,10 @@
+*.pyc
+.project
+.pydevproject
+.settings
+*~
+*.autosave
+build/
+doc/build/
+dist/
+*.egg-info
